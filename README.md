@@ -13,6 +13,9 @@ A beautiful, interactive romantic web experience that takes your loved one on a 
 - 🎤 Personal voice message
 - 📷 Photo gallery of cherished memories
 - ⭐ Starry animated background
+- 
+## 🚀 View the Live Project
+[Click here to open the surprise!](https://aradhyaganiga.github.io/romantic-surprise/)
 
 ## 🎯 Perfect For
 
